@@ -1,0 +1,8 @@
+<!-- <div class="preloader">
+        <div class="loader">
+            <div class="loader__figure"></div>
+            <p class="loader__label">Elite admin</p>
+        </div>
+    </div> -->
+
+    <!-- letaknya di header.php  -->
