@@ -4,6 +4,7 @@
 
 $assets = base_url('template/assets/');
 $dist =  base_url('template/crm/dist/');
+$icons = base_url('template/assets/icons/');
 include 'header.php'
 ?>
 

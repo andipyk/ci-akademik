@@ -23,6 +23,7 @@
     <link href="<?php echo $dist ?>css/style.min.css" rel="stylesheet">
     <!-- Dashboard 1 Page CSS -->
     <link href="<?php echo $dist ?>css/pages/dashboard1.css" rel="stylesheet">
+    <script src="<?php echo $assets ?>node_modules/jquery/jquery-3.3.1.min.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
